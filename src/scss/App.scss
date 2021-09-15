@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700;900&display=swap');
+
+
+#root {
+    height: 100vh;
+  }
+
+.fondo{
+    height: 106vh;
+   
+
+
+#header {
+    .nav{
+        margin-right: 72pt;
+    }
+    a {
+      color: #fff;
+      font-family: 'Epilogue', sans-serif;
+      }
+    .btn-contacto{
+      background: #40D1F7;
+      padding: 20px;
+      color: #06093D;
+      font-weight: 600;
+      text-decoration: none;
+      border-radius: 30px;
+      line-height: 0;
+    }
+    .margin-top{
+      margin-top: 27px;
+    }
+  }
+
+#home{
+    height: 106vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    background-position: center;
+    background-size: auto;
+    font-family: 'Epilogue', sans-serif;
+
+    h1{
+        color: white;
+        position: relative;
+        margin-left: -100pt;
+        font-size: 75pt;
+    } 
+    h2{
+        margin-left: -100pt;
+        font-size: 40pt;
+    }
+}
+}
+
+#clases{
+    height: 99vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    background-position: center;
+    background-size: auto;
+    font-family: 'Epilogue', sans-serif;
+h2{
+    font-family: 'Epilogue';
+    font-size: 100pt;
+    text-align: center;
+    color: #4A44B8;
+}
+
+    .table{
+        border-radius: 21px 21px 21px 21px;
+        text-align: center;
+        background-color: #fff;
+        width: 600pt;
+        margin: auto;
+
+      }
+
+      tbody, td, tfoot, th, thead, tr {
+        font-size: 30pt;
+
+        }
+      
+      tr1{
+          color: #4D48A3;
+      }
+    
+}
+
+#registro{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    background-position: center;
+    background-size: auto;
+    font-family: 'Epilogue', sans-serif; 
+
+ z{
+     text-align: center;
+     font-family: 'Epilogue';
+     font-size: 70pt;
+ }
+
+ a{
+     color: #1394E0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40pt;
+}
+    body{
+        position: relative;
+        background-color: transparent;
+        text-align: center;
+    }
+
+form{
+    text-align: center;
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+}
+
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+
+
+form input[type="text"],
+form input[type="email"]{
+	width:500px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:5px;
+	background-color:transparent;
+	margin:8px 0;
+	display:inline-block;
+}
+
+form input[type="submit"]{
+	width: 500px;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color: #C04CFF;
+} 
+
+form input[type="submit"]:hover{
+	cursor:pointer;
+
+}
+  }

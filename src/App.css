@@ -1,0 +1,15 @@
+.fondo {
+  background-image: url("./images/la1.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100vmax;
+}
+#clases{
+  background-image: url("./images/landing2.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100vmax;
+}
+#registro{
+  background-image: url("./images/landing3.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100vmax;
+}
